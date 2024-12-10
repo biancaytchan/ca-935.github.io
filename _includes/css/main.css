@@ -603,3 +603,7 @@ ul li:hover ul {
 .tooltip:hover .tooltiptext {
   visibility: visible;
 }
+
+.row gx-2 {
+	float: right;
+}
