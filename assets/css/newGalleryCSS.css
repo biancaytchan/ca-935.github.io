@@ -5,6 +5,10 @@
 /* Position the image container (needed to position the left and right arrows) */
 .container {
   position: relative;
+  float: left;
+  padding:10px;
+  overflow:auto;
+  clear:both;
 }
 
 /* Hide the images by default */
